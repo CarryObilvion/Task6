@@ -15,9 +15,9 @@
 # Реализация проекта
 Проект построен согласно диаграмме классов.
 
-![113765465-f9c53580-9724-11eb-8306-89fc761b791c](https://user-images.githubusercontent.com/80450495/114261488-81d86300-99e3-11eb-80d4-68a377774f24.png)
+![image](https://user-images.githubusercontent.com/80450495/119714151-32eb6d80-be6b-11eb-86e9-1eda80bf87f0.png)
 
 Скриншот рабочего окна приложения:
 
-![Снимок](https://user-images.githubusercontent.com/80450495/114261674-90734a00-99e4-11eb-8c63-c660235cf4e9.PNG)
+![image](https://user-images.githubusercontent.com/80450495/119714100-22d38e00-be6b-11eb-9832-fc74464bf67e.png)
 
