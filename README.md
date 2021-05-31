@@ -19,5 +19,5 @@
 
 Скриншот рабочего окна приложения:
 
-![image](https://user-images.githubusercontent.com/80450495/119714100-22d38e00-be6b-11eb-9832-fc74464bf67e.png)
+![image](https://user-images.githubusercontent.com/80450495/120189994-ae10a300-c220-11eb-9b25-4b162f373e94.png)
 
